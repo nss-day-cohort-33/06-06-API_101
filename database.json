@@ -1,0 +1,41 @@
+{
+  "food": [
+    {
+      "name": "Fish sandwich",
+      "category": "fish sandwich",
+      "ethnicity": "smelly",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": 5400101059634
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Cheerios",
+      "category": "cereal",
+      "ethnicity": "'murcan",
+      "id": 6
+    },
+    {
+      "name": "Oreos",
+      "category": "cookies",
+      "ethnicity": "'murcan",
+      "id": 7
+    }
+  ]
+}
